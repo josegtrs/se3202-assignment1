@@ -175,5 +175,8 @@ $(function() {
 });
 
 
-//<td><input type="text" class="tweettext" value="' + Object.text + '"></td>\
-   
+function test_print(){
+
+         console.log(“test code”)
+
+}   
